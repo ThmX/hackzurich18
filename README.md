@@ -21,6 +21,8 @@ Finally created at HackZurich 2018 after many years of utter disgust for logging
 
 ---
 
+![Logo](./time.png)
+
 ## Description
 
 The basic idea for the application came from our daily work life, as we need to accurately track every minute of
@@ -41,6 +43,9 @@ With https://clockify.me/ we have found a time-tracking service, which offers gr
 ---
 
 ## Architecture
+
+
+![System Architecture](./System%20Diagram.png)
 
 
 ### Google Actions API
